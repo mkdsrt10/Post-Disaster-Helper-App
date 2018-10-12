@@ -1,7 +1,5 @@
 # Post-Disaster-Helper-App
 
-Post-Disaster Helper App
-
 Basic Points/Idea
 - Have a basic tips page. Should contain measures and saved maps.
 - People login to app and make their profiles, add their skills which might be useful during the disaster. This is while installing the app much before the disaster.
@@ -40,7 +38,9 @@ Datasets we are using:-
 
 - Saved offline maps showing the locations of rescue centers, hospitals etc. For offline guidance
 - No prediction model trained here, but the data from this app can be used to train a model to predict the movement of humans during an emergency like of a disaster.
-- Technologies we  are using
+
+Technologies we are using:-
+
 - Cloud services for storing the forums of individual group
 - Bluetooth services for communication and data sharing
 - Location services for the govt. To know precisely what place to plan the rescue missions.
